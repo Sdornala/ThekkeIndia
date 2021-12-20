@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982544809058",
+    "project_id": "theekeindia",
+    "storage_bucket": "theekeindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982544809058:android:d2d0ccbb96f43c75d2e53b",
+        "android_client_info": {
+          "package_name": "com.theekeindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982544809058-reqg5l3k6k2qbv8hlbupid48e9mcmlh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theekeindia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "982544809058-pf1phdhhip9kq3nea2oto6lu2on2930t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqMh1nlfPUSWqwdJyuaNNuRFTv-JydCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982544809058-pf1phdhhip9kq3nea2oto6lu2on2930t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
